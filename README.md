@@ -1,8 +1,5 @@
 <h1 align="center">Welcome to Simple Character Counter 👋</h1>
 <p>
-  <a href="https://www.npmjs.com/package/Simple Character Counter" target="_blank">
-    <img alt="Version" src="https://img.shields.io/npm/v/Simple Character Counter.svg">
-  </a>
   <a href="#" target="_blank">
     <img alt="License: GNU General Public License v3.0" src="https://img.shields.io/badge/License-GNU General Public License v3.0-yellow.svg" />
   </a>
